@@ -1,16 +1,24 @@
-### Hi there 👋
+<img src="https://i.imgur.com/tnRlE7O.png" alt="VISUALNAUT Logo" width="100px" />
 
-<!--
-**visualnaut/visualnaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## A self⏤proclaimed visualnaut 🚀
 
-Here are some ideas to get you started:
+Hi folks 👋🏻, I'm Kersa, **a self⏤taught developer and designer** from Indonesia 🇮🇩 <br>
+My daily activities are writing codes with bugs as a feature and design some rectangles <br>
+with a fancy drop shadow and extra corner radius to make it pop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Currently I'm working at [🐨 Qoala](https://www.qoala.app/), an insurtech with a vision to make insurance more accessible for everyone.
+
+### 👨🏻‍🚀 vis·u·al·naut 
+/ˈviZH(o͞o)əlˌnôt/
+<br> _noun_ <br>
+1. a person who is trained to travel through lines, shapes, forms and colours.
+
+### 📫 Say Hi!
+- ✉️ Email (kersa@visualnaut.com)
+
+### 🌏 Around the Internet
+- ✍🏻 Personal Blog ([notasi.visualnaut.com](https://notasi.visualnaut.com))
+- 👨🏻‍🎨  Behance ([be.net/visualnaut](https://be.net/visualnaut))
+- 📓 Medium ([medium.com/visualnaut](https://medium.com/visualnaut))
+- 🐦 Twitter ([twitter.com/visualnaut](https://twitter.com/visualnaut))
+- 🖼 Instagram ([instagram.com/visualnaut](https://instagram.com/visualnaut))
