@@ -2,9 +2,8 @@
 
 ## A self⏤proclaimed visualnaut 🚀
 
-Hi folks 👋🏻, I'm Kersa, **a self⏤taught developer and designer** from Indonesia 🇮🇩 <br>
-My daily activities are writing codes with bugs as a feature and design some rectangles <br>
-with a fancy drop shadow and extra corner radius to make it pop.
+#### Hi folks 👋🏻, I'm Kersa, **a self⏤taught developer and designer** from Indonesia 🇮🇩 <br>
+My daily activities are writing codes with bugs as a feature and design some rectangles with a fancy drop shadow and extra corner radius to make it pop.
 
 ##### Currently I'm working at [🐨 Qoala](https://www.qoala.app/), an insurtech with a vision to make insurance more accessible for everyone.
 
@@ -16,9 +15,13 @@ with a fancy drop shadow and extra corner radius to make it pop.
 ### 📫 Say Hi!
 - ✉️ Email (kersa@visualnaut.com)
 
+### ✍🏻 Personal Blog
+<img src="https://i.imgur.com/0IyhVkX.png" alt="Notasi oleh VISUALNAUT Logo" width="64px" />
+I write some stuffs about design on programming on my blog called [Notasi oleh VISUALNAUT](https://notasi.visualnaut.com) but it only on Indonesian. 
+But I post the english version on my Medium.
+
 ### 🌏 Around the Internet
-- ✍🏻 Personal Blog ([notasi.visualnaut.com](https://notasi.visualnaut.com))
-- 👨🏻‍🎨  Behance ([be.net/visualnaut](https://be.net/visualnaut))
 - 📓 Medium ([medium.com/visualnaut](https://medium.com/visualnaut))
+- 👨🏻‍🎨  Behance ([be.net/visualnaut](https://be.net/visualnaut))
 - 🐦 Twitter ([twitter.com/visualnaut](https://twitter.com/visualnaut))
 - 🖼 Instagram ([instagram.com/visualnaut](https://instagram.com/visualnaut))
