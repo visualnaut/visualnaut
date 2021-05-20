@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/tnRlE7O.png" alt="VISUALNAUT Logo" width="80px" />
+<img src="./assets/vxnt-logo.svg" alt="VISUALNAUT Logo" width="80px" />
 
 ## A self⏤proclaimed visualnaut 🚀
 
@@ -16,7 +16,7 @@ My daily activities are writing codes with bugs as a feature and design some rec
 - `📧 Email` (kersa@visualnaut.com)
 
 ### ✍🏻 Personal Blog
-<img src="https://i.imgur.com/0IyhVkX.png" alt="Notasi oleh VISUALNAUT Logo" width="80px" />
+<img src="./assets/notasi-logo.svg" alt="Notasi oleh VISUALNAUT Logo" width="80px" />
 
 I write some stuff about `design` and `programming` on my blog **[Notasi oleh VISUALNAUT](https://notasi.visualnaut.com)** 
 but only Indonesian, english version posted on my Medium 😉
