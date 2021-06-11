@@ -2,7 +2,7 @@
 
 ## A self⏤proclaimed visualnaut 🚀
 
-#### Hi folks 👋🏻, I'm Kersa, **a self⏤taught developer and designer** from Indonesia 🇮🇩 with 3+ years of working experiences.<br>
+#### Hi folks 👋🏻, I'm Kersa, **a self⏤taught developer and designer** from Indonesia 🇮🇩<br>
 My daily activities are writing codes with bugs as a feature and design some rectangles with a fancy drop shadow and extra corner radius to make it pop.
 
 #### Currently I'm working at [🐨 Qoala](https://www.qoala.app/), an insurtech with a vision to make insurance more accessible for everyone.
