@@ -23,7 +23,6 @@ I write some stuff about `design` and `coding` on my blog **[Notasi by VISUALNAU
 ### 🌏 Around the Internet
 
 - `👨🏻‍💼 LinkedIn` ([linkedin.com/in/visualnaut/](https://www.linkedin.com/in/visualnaut/))
-- `📓 Medium` ([medium.com/visualnaut](https://medium.com/visualnaut))
 - `👨🏻‍🎨 Behance` ([behance.net/visualnaut](https://www.behance.net/visualnaut))
 - `🐦 Twitter` ([twitter.com/visualnaut](https://twitter.com/visualnaut))
 - `🖼 Instagram` ([instagram.com/visualnaut](https://instagram.com/visualnaut))
